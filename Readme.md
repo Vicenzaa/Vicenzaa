@@ -1,27 +1,25 @@
-# Vicenzaa... or vis
+##  🌸 Hi there, I'm Vicenza or... vis 🌸
 
-My work sits somewhere between **AI, cognition and design**.
+I like building things.
 
-I’m interested in building systems that can reason about complexity while keeping **human understanding in the loop**.
+And I tend to get a little too curious about them.
 
-## Current Work
+Why does this work?
+Why does someone interact with it this way?
+What does the model actually *know*?
+And what happens when it doesn't?
 
-* [**Neuro-Symbolic Decision Support**](#)**:** Exploring a neuro-symbolic architecture for geopolitical decision support using Knowledge Graphs, Graph Representation Learning and uncertainty.
+Somewhere along the way, I ended up exploring **AI, cognitive systems, design and computational science** — not really as separate fields, but as different ways of looking at the same thing.
 
-* [**Computational Biology**](#)**:** Exploring deep learning for genomic prediction and synthetic data generation for multi-omic scenarios.
+Currently exploring Neuro-Symbolic AI, XAI, World Models, Graph Learning, uncertainty and computational biology.
 
-* **Product & Interaction Design:** Exploring the cognitive side of how people perceive, understand and interact with technology.
+When I design, I think about cognition, perception, behavior and context.
 
-## Interests
+When I work with AI, I keep coming back to the same question:
+> *How do we make technology more capable without making it less human ? 
 
-`AI` · `XAI` · `World Models` · `Graph Learning` · `Cognitive Systems` · `Computational Biology` · `HCI`
+Maybe that's why I'm fascinated by the little things we usually overlook. I assume that there is almost always a little bit of humanity hiding somewhere in the system and I like finding it.
 
-## I work with
+`AI` · `XAI` · `Cognition` · `Design` · `World Models` · `Computational Biology`
 
-Python • Ada • PyTorch • TensorFlow • Docker • Neuro-Symbolic AI • XAI • Graphs • ML Systems • ASM • Blender
-
-> *There is always a little bit of humanity hiding somewhere in what we build.*
-
-## Find me
-
-[LinkedIn](https://www.linkedin.com/) · [Email](mailto:adja.bar22@gmail.com)
+*Still learning. Still building. Still asking better questions.*  =^..^=
