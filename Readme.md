@@ -1,4 +1,4 @@
-##  🌸 Hi there, I'm Vicenza 🌸
+##  🌸 Hi there, I'm Vicenza or... vis 🌸
 
 I like building things.
 
