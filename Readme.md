@@ -20,6 +20,8 @@ When I work with AI, I keep coming back to the same question:
 
 Maybe that's why I'm fascinated by the little things we usually overlook. I assume that there is almost always a little bit of humanity hiding somewhere in the system and I like finding it.
 
-`AI` · `XAI` · `Cognition` · `Design` · `World Models` · `Computational Biology`
+## I work with
+
+Python • Ada • PyTorch • TensorFlow • Docker • Neuro-Symbolic AI • XAI • Graphs • ML Systems • Blender
 
 *Still learning. Still building. Still asking better questions.*  =^..^=
