@@ -16,9 +16,9 @@ I’m interested in building systems that can reason about complexity while keep
 
 `AI` · `XAI` · `World Models` · `Graph Learning` · `Cognitive Systems` · `Computational Biology` · `HCI`
 
-## Stack
+## I work with
 
-`Python` · `PyTorch` · `TensorFlow` · `Java` · `Spring Boot` · `Next.js` · `Figma`
+Python • Ada • PyTorch • TensorFlow • Docker • Neuro-Symbolic AI • XAI • Graphs • ML Systems • ASM • Blender
 
 > *There is always a little bit of humanity hiding somewhere in what we build.*
 
