@@ -54,90 +54,32 @@ And I think that's where things get interesting.
 `AI` · `XAI` · `World Models` · `Cognitive Systems` · `Graph Learning` · `Computational Biology` · `Product Design`
 
 -->
-
 I like building things.
 
-I also like asking *why they work*, *why people use them*, and occasionally **whether we really understand what we've built**.
+And I tend to get a little too curious about them.
 
-That's probably why I ended up somewhere between **AI, cognitive science, design and complex systems**. =^..^=
+Why does this work?
+Why does someone interact with it this way?
+What does the model actually *know*?
+And what happens when it doesn't?
 
- .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-. .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-.
+Somewhere along the way, I ended up exploring **AI, cognitive systems, design and computational science** — not really as separate fields, but as different ways of looking at the same thing.
 
-### ⌖ Currently teaching machines to think... carefully ⌖
+I'm currently working on **neuro-symbolic AI**, with a particular interest in **XAI, world models, graph learning and uncertainty**, while also exploring **computational biology, genomics and synthetic multi-omics**.
 
-My recent research explores a **neuro-symbolic decision-support system for geopolitical contexts**.
+When I design, I think about **how people perceive, understand and interact** with what we build.
 
-The idea?
+When I work with AI, I keep coming back to the same question:
 
-Combine **Knowledge Graphs + Graph Representation Learning + uncertainty** to build systems that can reason about complex situations without pretending to know everything.
+> *How do we make technology more capable without making it less human?*
 
-Because a model saying: 
+Maybe that's why I'm fascinated by the little things we usually overlook —
+the uncertainty, the context, the weird human decision, the unexpected interaction.
 
-> *"I'm 97% sure."* is very different from:
-> *"I'm not entirely sure — here's why."*
+There is almost always a little bit of humanity hiding somewhere in the system.
 
-And I think that distinction matters.
+**I like finding it.**
 
-Especially when there's a human making the final decision.
+`AI` · `XAI` · `Cognition` · `Design` · `World Models` · `Computational Biology`
 
- .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-. .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-.
-
-### & Currently making biology a little more computational 
-
-I'm also exploring **deep learning for genomics and biological prediction**, including the use of **synthetic data to simulate multi-omic scenarios**.
-
-Basically: **biology + data + models + a slightly unreasonable amount of curiosity.**
-
- .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-. .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-.
-
-### When I'm not doing AI...
-
-I'm probably thinking about **how humans interact with technology**.
-
-When I design, I don't just ask:
-
-> *"Does this look good?"*
-
-I ask:
-
-> *"What is the user thinking right now?"*
-
-Cognition, perception, behavior, context, intention...
-
-An interface is never *just* an interface.
-
- .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-. .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-.
-
-### Things I keep thinking about
-
-**XAI** — because black boxes make me uncomfortable.
-
-**World Models** — because learning patterns is cool, but understanding the world behind them is cooler.
-
-**Cognitive Systems** — because humans are complicated enough already.
-
-**Graph Learning** — because sometimes relationships tell you more than the things themselves.
-
-**Human-in-the-loop** — because maybe keeping humans involved isn't a limitation after all.
-
- .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-. .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-.
-
-### A small belief of mine
-
-There is always a tiny, almost invisible layer of **humanity** hiding inside the things we build.
-
-In an algorithm.
-In an interface.
-In a dataset.
-In the way someone chooses to use a system.
-
-I like looking for it.
-
-**That's usually where things get interesting.**
-
- .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-. .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-.  .-.-.
-
-`AI` · `XAI` · `World Models` · `Cognitive Systems` · `Graph Learning` · `Computational Biology` · `Product Design`
-
-*Still learning. Still building. Still (Always ?) asking better questions.* 
-
+*Still learning. Still building. Still asking better questions.*  =^..^=
